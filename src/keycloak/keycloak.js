@@ -28,6 +28,8 @@ export function configureKeycloak(keycloakUrl, realm, clientId) {
   }
 }
 
+//test comment
+
 /**
  * Get the keycloak instance
  * @returns {Keycloak}
